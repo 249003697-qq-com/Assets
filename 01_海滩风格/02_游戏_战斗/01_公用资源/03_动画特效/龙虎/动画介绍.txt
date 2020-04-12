@@ -1,0 +1,5 @@
+Public_anim_jiesuan_suzi  是结算飘分动画（公用）
+Public_anim_Start bets  开始下注动画（炸金花+龙虎+百家乐）
+Public_anim_Stop bets  结束下注动画（炸金花+龙虎+百家乐）
+LongHu_anim_pk  龙虎开局
+LongHu_anim_win   结算区域替换图片  资源  （龙赢 +虎赢+ 和局）
