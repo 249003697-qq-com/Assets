@@ -1,0 +1,286 @@
+
+shuiguoji.png
+size: 237,942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_chengzi
+  rotate: false
+  xy: 135, 92
+  size: 61, 55
+  orig: 62, 56
+  offset: 0, 1
+  index: -1
+00_putao
+  rotate: false
+  xy: 2, 2
+  size: 54, 50
+  orig: 55, 50
+  offset: 1, 0
+  index: -1
+00_shuiguo
+  rotate: false
+  xy: 65, 60
+  size: 61, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+00_xiangj
+  rotate: false
+  xy: 107, 623
+  size: 46, 45
+  orig: 47, 45
+  offset: 1, 0
+  index: -1
+01_shuiguo_ (1)
+  rotate: false
+  xy: 2, 105
+  size: 61, 60
+  orig: 61, 61
+  offset: 0, 1
+  index: -1
+01_shuiguo_ (2)
+  rotate: false
+  xy: 105, 344
+  size: 44, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+01_shuiguo_ (3)
+  rotate: true
+  xy: 71, 115
+  size: 60, 62
+  orig: 61, 62
+  offset: 1, 0
+  index: -1
+01_shuiguo_ (4)
+  rotate: true
+  xy: 2, 54
+  size: 49, 61
+  orig: 49, 62
+  offset: 0, 1
+  index: -1
+01_shuiguo_ (5)
+  rotate: true
+  xy: 128, 41
+  size: 49, 59
+  orig: 49, 60
+  offset: 0, 1
+  index: -1
+01_shuiguo_ (6)
+  rotate: true
+  xy: 65, 4
+  size: 54, 56
+  orig: 55, 57
+  offset: 1, 1
+  index: -1
+02_shuiguo_ (1)
+  rotate: true
+  xy: 73, 177
+  size: 60, 67
+  orig: 61, 68
+  offset: 1, 1
+  index: -1
+02_shuiguo_ (2)
+  rotate: false
+  xy: 106, 405
+  size: 44, 66
+  orig: 45, 67
+  offset: 0, 1
+  index: -1
+02_shuiguo_ (3)
+  rotate: true
+  xy: 144, 204
+  size: 60, 70
+  orig: 61, 70
+  offset: 1, 0
+  index: -1
+02_shuiguo_ (4)
+  rotate: true
+  xy: 2, 218
+  size: 49, 69
+  orig: 49, 70
+  offset: 0, 1
+  index: -1
+02_shuiguo_ (5)
+  rotate: true
+  xy: 2, 167
+  size: 49, 67
+  orig: 49, 68
+  offset: 0, 1
+  index: -1
+02_shuiguo_ (6)
+  rotate: true
+  xy: 142, 149
+  size: 53, 64
+  orig: 54, 65
+  offset: 0, 1
+  index: -1
+03_shuiguo_ (1)
+  rotate: true
+  xy: 152, 488
+  size: 60, 82
+  orig: 61, 83
+  offset: 0, 1
+  index: -1
+03_shuiguo_ (2)
+  rotate: true
+  xy: 154, 550
+  size: 44, 81
+  orig: 45, 82
+  offset: 0, 1
+  index: -1
+03_shuiguo_ (3)
+  rotate: true
+  xy: 151, 317
+  size: 60, 84
+  orig: 61, 85
+  offset: 1, 1
+  index: -1
+03_shuiguo_ (4)
+  rotate: true
+  xy: 148, 266
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+03_shuiguo_ (5)
+  rotate: true
+  xy: 152, 437
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+03_shuiguo_ (6)
+  rotate: true
+  xy: 155, 887
+  size: 53, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+04_shuiguo_ (1)
+  rotate: true
+  xy: 2, 375
+  size: 59, 101
+  orig: 61, 103
+  offset: 1, 2
+  index: -1
+04_shuiguo_ (2)
+  rotate: false
+  xy: 106, 473
+  size: 44, 99
+  orig: 44, 102
+  offset: 0, 2
+  index: -1
+04_shuiguo_ (3)
+  rotate: true
+  xy: 2, 608
+  size: 60, 103
+  orig: 60, 105
+  offset: 0, 2
+  index: -1
+04_shuiguo_ (4)
+  rotate: true
+  xy: 2, 436
+  size: 48, 102
+  orig: 49, 104
+  offset: 1, 2
+  index: -1
+04_shuiguo_ (5)
+  rotate: true
+  xy: 2, 324
+  size: 49, 100
+  orig: 49, 102
+  offset: 0, 2
+  index: -1
+04_shuiguo_ (6)
+  rotate: true
+  xy: 2, 269
+  size: 53, 97
+  orig: 54, 99
+  offset: 0, 1
+  index: -1
+04_shuiguo_ (7)
+  rotate: true
+  xy: 2, 486
+  size: 54, 102
+  orig: 54, 106
+  offset: 0, 3
+  index: -1
+SGJ_btn_jia
+  rotate: true
+  xy: 198, 100
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+SGJ_btn_jian
+  rotate: true
+  xy: 198, 51
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+SGJ_dianban
+  rotate: true
+  xy: 155, 596
+  size: 289, 78
+  orig: 289, 79
+  offset: 0, 0
+  index: -1
+SGJ_jiqi
+  rotate: true
+  xy: 2, 670
+  size: 270, 151
+  orig: 270, 151
+  offset: 0, 0
+  index: -1
+SGJ_start_01
+  rotate: true
+  xy: 216, 237
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+SGJ_start_02
+  rotate: false
+  xy: 216, 200
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+SGJ_start_03
+  rotate: false
+  xy: 107, 574
+  size: 45, 47
+  orig: 45, 51
+  offset: 0, 1
+  index: -1
+main_sgkh_tb_02
+  rotate: false
+  xy: 2, 542
+  size: 102, 64
+  orig: 105, 69
+  offset: 3, 2
+  index: -1
+main_sgkh_tb_03
+  rotate: true
+  xy: 104, 280
+  size: 62, 42
+  orig: 65, 44
+  offset: 2, 0
+  index: -1
+main_sgkh_tb_04
+  rotate: false
+  xy: 152, 379
+  size: 73, 56
+  orig: 76, 62
+  offset: 0, 2
+  index: -1
+main_sgkh_tb_05
+  rotate: true
+  xy: 101, 239
+  size: 39, 41
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
